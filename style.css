@@ -1,0 +1,24 @@
+.top {
+    background-image: url(old-books-with-pencil-wood-table-with-blurred-background-sunshine-day_29393-148.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.h1, .h5 {
+    color: black !important;
+}
+
+.main {
+    font-weight: bolder !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.fab {
+    color:  black !important;
+}
+
