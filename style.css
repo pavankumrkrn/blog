@@ -22,3 +22,6 @@
     color:  black !important;
 }
 
+button {
+    border-radius: 0px !important;
+}
