@@ -25,3 +25,13 @@
 button {
     border-radius: 0px !important;
 }
+
+@media screen and (max-width: 1000px){
+    .navbar {
+        background-color: white !important;
+    }
+
+    .txt {
+        color: black !important;
+    }
+}
